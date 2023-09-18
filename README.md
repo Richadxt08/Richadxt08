@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Richa Dixit
+- 👋 Hi, I’m Richa Dixit.
 - 🔭 I'm a self driven passionate coder who loves to solve problems and write efficient codes.
 - 📎 In my free time I love to learn about latest technologies and work on my logic building skills.
 - 📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
