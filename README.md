@@ -4,7 +4,7 @@
 - 📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
 - 🌱 I’m on track for learning more about Java, Full Stack Development and Data-Structures_n_Algorithms. 
 - 📫 you can shoot me an email at richa@krenai.com, I'll try to respond as soon as I can.
-- ⚡ Fun fact: Code is like humor.When you have to explain it,it's bad.
+- ⚡ Fun fact: Code is like humor.When you have to explain it, it's bad.
 
 **Happy Coding!!**☺😊
 <!---- 👀 I’m interested in ...
