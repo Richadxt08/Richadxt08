@@ -3,7 +3,7 @@
 - 📎 In my free time I love to learn about latest technologies and work on my logic building skills.
 - 📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
 - 🌱 I’m on track for learning more about Java, Full Stack Development and Data-Structures_n_Algorithms. 
-- 📫 you can shoot me an email at richa@krenai.com, I'll try to respond as soon as I can.
+- 📫 you can shoot me an email at richadixit028@gmail.com, I'll try to respond as soon as I can.
 - ⚡ Fun fact: Code is like humor.When you have to explain it, it's bad.
 
 **Happy Coding!!**☺😊
